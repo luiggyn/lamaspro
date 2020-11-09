@@ -9596,3 +9596,15 @@ http://74.222.24.25:1935/live/ngrp:galatvmerida_all/playlist.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1, RCG | SD achoAPPS.com
 http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_MortalKombat11_image1600w.jpg" group-title="peliculas LN" ,Mortal kombat
+https://www962.o0-2.com/token=uCbeRTKgtFmUzxwZBIiokA/1604960041/8.242.0.0/85/2/90/4db4cfcd2c740408a70e5ef365464902-720p.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_215_290/pictures/19/11/04/11/54/1194009.jpg" group-title="peliculas LN" ,Jumanji
+https://www839.o0-2.com/token=jPe1jyvgUSN800PuWlFhNQ/1604960204/8.242.0.0/83/b/d1/a34708484122c48591a0c08f90817d1b-720p.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Zombieland_Mata_y_remata-674365283-large.jpg" group-title="peliculas LN" ,Zombieland 2
+https://www1093.o0-3.com/token=03Cz8kltm_udX4yaxcT3eg/1604960303/8.242.0.0/99/a/a2/e556d77f6369d7da57d6475594992a2a-1080p.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bloodshot-229984487-large.jpg" group-title="peliculas LN" ,Bloodshot
+https://www940.o0-2.com/token=cpjG_HDdeJ8OhQ60XhHwaA/1604960393/8.242.0.0/98/6/aa/b37374db29b9d267cfa885aff0eeeaa6-720p.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/04/31/66043140f8a11d1ca874eaefc1719aca.jpg" group-title="peliculas LN" , Hobbs y shaw
+https://s-delivery18.mxdcontent.net/v/1cb5de18eb2d7786626fa446e5709591.mp4?s=OYwVGVPeoVpu37pI_o7C9Q&e=1604967756&_t=1604948084
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/10/12/27/4446380.jpg" group-title="peliculas LN" ,X men fenix
+https://www720.o0-2.com/token=nprw_xBHCeDdv1mpkK-XYQ/1604960712/8.242.0.0/101/2/ce/0a1f50ef1476985330dda4681992dce2-1080p.mp4
